@@ -1,0 +1,58 @@
+{
+    "user" :
+    [
+        {
+            "fullname": "Jane Doe",
+            "gender": "Female",
+            "Address": [
+                {
+                    "HomeAddress": "House 123",
+                    "StreetName": "Madiba",
+                    "Surbub": "Mashashane",
+                    "city": "Polokwane",
+                    "code": 3030
+                },
+                {}
+            ],
+            
+                "emailAddress": "janedoe@company.com"
+            
+        },
+        {
+            "fullname": "Ben Kate",
+            "gender": "Male",
+            "Address": [
+                {
+                    "HomeAddress": "House 123",
+                    "StreetName": "Mapangul",
+                    "Surbub": "Mashashane",
+                    "city": "Polokwane",
+                    "code": "0300"
+                },
+                {
+                    "WorkAddress": "House 123"
+                }
+            ],
+            
+                "emailAddress": "janedoe@company.com"
+            
+        }
+    ],
+
+    "product":
+    [
+        { "name": "Apple","department":"Fruits", "price":54.99 },
+        { "name": "Fresh Milk","department":"Dairy", "price":34.99 },
+        { "name": "Dunhill","department":"cigarates", "price":42.29 },
+        { "name": "Wors","department":"Deli", "price":54.99 }
+
+    ],
+
+    "Order":
+    [
+        { "id": 1 },
+        { "id": 2 }
+    ]
+
+    
+}
