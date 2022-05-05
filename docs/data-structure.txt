@@ -1,0 +1,22 @@
+
+[Permissions]
+  * EditPrice
+  * EditUserProfile
+  * AddProduct
+  * EditProduct
+ 
+[Role] //Apply permission to a role not user
+  * Admin
+  * Manger
+  * Supervisor
+  * Staff
+  * Customer
+  
+ [User]
+  * Username
+  * FirstName
+  * Surname
+  * Password
+  * Role
+  
+ []

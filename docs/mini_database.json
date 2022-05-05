@@ -1,0 +1,30 @@
+{
+    "Permission":{
+        "EditPrice":false,
+        "AddProduct":false,
+        "EditProduct":false,
+        "EditUserProfile":false
+    },
+    "Roles":{
+        "Admin":false,
+        "Manger":false,
+        "Supervisor":false,
+        "Staff":false,
+        "Customer":false
+    },
+    "Users":[
+		{
+			"Username":"Admin",
+			"FirstName":"",
+			"LastName": ""
+			"Password":"password"
+		},
+		{
+			"Username":"Default",
+			"FirstName":"",
+			"LastName": ""
+			"Password":"password"
+		}
+	]
+
+}

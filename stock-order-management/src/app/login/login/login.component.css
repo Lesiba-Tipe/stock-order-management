@@ -1,0 +1,30 @@
+
+
+
+.login-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /*align-content: center;*/
+    /*background-color: bisque;*/
+}
+.form-group{
+    width:auto;
+    padding: 10px;
+}
+
+.label-input{
+    display: grid;
+    grid-template-columns: 80px 200px;
+    margin-top: 5px;
+    /*background-color: aquamarine;*/
+}
+
+.form-group1{
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.form-control1{
+    width: 200px;
+}
